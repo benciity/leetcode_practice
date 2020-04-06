@@ -6,3 +6,5 @@ class Solution:
             if pre==nums[index]:
                 return pre
             pre=nums[index]
+            #最后对pre进行重新赋值
+           
